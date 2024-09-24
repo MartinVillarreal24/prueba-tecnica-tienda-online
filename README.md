@@ -95,4 +95,4 @@ Las variables de entorno estaran adjuntas en el correo electronico, puede cambia
 
 los pagos funcionan con Stripe, esta perfectamente integrado
 
-## En mongoDB no se usan diagramas entidad relacion, de igual manera adjunto el diagrama en el correo
+## En mongoDB no se usan diagramas entidad relacion sino con esquemas en los cuales se realizan las relaciones. Estos esquemas los adjuntare en el correo electronico
