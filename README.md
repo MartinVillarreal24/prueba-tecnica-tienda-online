@@ -94,3 +94,5 @@ los demas usuarios que se registren por defecto seran clientes y solo tendras al
 Las variables de entorno estaran adjuntas en el correo electronico, puede cambiar la uri de la base de datos por una propia, solo no se olvide de permitir el acceso a cualquier ip para efectos practicos
 
 los pagos funcionan con Stripe, esta perfectamente integrado
+
+## En mongoDB no se usan diagramas entidad relacion, de igual manera adjunto el diagrama en el correo
